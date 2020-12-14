@@ -1,2 +1,3 @@
 # LMSU-Mercury_boundaries
-Repository for the Science case from SINP/LMSU with the aim to automatically detect bow shock and magnetopause crossings in MESSENGER data
+This repository is dedicated to the science case "Search for magnetopause/shockwave crossings on Mercury based on MESSENGER data", proposed by the Moscow State University (SINP/LMSU).
+
